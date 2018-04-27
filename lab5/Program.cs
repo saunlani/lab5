@@ -20,7 +20,6 @@ namespace lab5
 
                 if (validnumber && usernum > 0 && usernum < 10)
                 {
-                    //Console.WriteLine("You entered a valid number.");
 
                     int i;
                     for (i = usernum - 1; i >= 1; i--)
@@ -64,7 +63,6 @@ namespace lab5
                 }
             }
 
-            //TODO; create a continue yey or ney.
         }
 
     }
